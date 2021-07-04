@@ -1,2 +1,2 @@
-# create-crud-operation
-this is a crud operation in express-MySQL.
+# E-commerce grocery website
+this is a project of E-commerce grocery website using Node,express and MySQL.
